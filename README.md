@@ -21,7 +21,7 @@ git checkout -b seuNome
 ````bash
 git add .
 
-git comit -m "sua mensagem de commit"
+git commit -m "sua mensagem de commit"
 
 git checkout main
 
